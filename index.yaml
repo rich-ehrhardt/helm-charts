@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  myapp1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-26T13:31:42.53095031+10:00"
+    description: A Helm chart for Kubernetes
+    digest: 579e981b2a37409a3243c94b4c00a27fbf29be25856dd5220ffe651fb8adbb82
+    name: myapp1
+    type: application
+    urls:
+    - https://github.com/rich-ehrhardt/helm-charts/releases/download/myapp1-0.1.0/myapp1-0.1.0.tgz
+    version: 0.1.0
+  myapp2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-26T13:31:42.816016266+10:00"
+    description: A Helm chart for Kubernetes
+    digest: 3088044dcf160157fc018bc94e9db333d73d378c001f1ce60218f85b762cb346
+    name: myapp2
+    type: application
+    urls:
+    - https://github.com/rich-ehrhardt/helm-charts/releases/download/myapp2-0.1.0/myapp2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-26T13:31:42.816050002+10:00"
